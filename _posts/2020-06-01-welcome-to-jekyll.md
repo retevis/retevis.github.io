@@ -6,8 +6,7 @@ date: {}
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - RT3S
 published: true
 ---
 
