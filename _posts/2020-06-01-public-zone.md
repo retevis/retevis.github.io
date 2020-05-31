@@ -12,7 +12,7 @@ published: true
 
 Давайте разберемся что это.
 
-![]({{site.baseurl}}/https://www.ailunce.com/UploadedMedia/image/20190615/6369621739588418988311357.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Когда вы включите эту функцию:
 Ваше радио будет поддерживать одну и ту же зону только один раз в диапазоне А и В. Когда вы снимаете  флажок, ваше радио поддерживает две разные зоны. Например, полоса A является зоной 1, а полоса B - зоной 2. 
