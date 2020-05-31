@@ -59,9 +59,9 @@ plugins:
 author:
   name   : "Retevis"
   avatar : "/assets/images/89770344_101626541475658_4673583356225519616_n.jpg"
-  bio    : "Радиостанции Retevis и акссесуары к ним"
+  bio    : "Радиостанции Retevis и аксесcуары к ним"
   links:
-    - label: "Website"
+    - label: "Магазин"
       icon: "fas fa-fw fa-link"
       url: "https://retevis.com.ua"
     #- label: "Twitter"
