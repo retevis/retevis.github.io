@@ -4,9 +4,7 @@ excerpt_separator: <!--more-->
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - RT3S
 published: true
 ---
 Некоторые радиостанции не поддерживают сброс с помощью короткой клавиши, мы можем сбросить их с помощью заводского codeplug по умолчанию. Как это сделать?
