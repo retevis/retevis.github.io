@@ -1,26 +1,36 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: >-
+  Как запрограммировать рацию Retevis RT3S c помощью ПК и программного
+  обеспечения
+date: {}
 categories:
   - blog
 tags:
   - Jekyll
   - update
+published: true
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Программирование рации Retevis RT3S на ПК - это базовая операция, которая облегчит ваше общение. Сегодня мы возьмем RT3S в качестве примера, чтобы представить, как программировать с помощью программного обеспечения.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+В двухдиапазонной цифровой рации RT3S используется протокол Tier 2 стандарта цифрового мобильного радио (DMR). Если вы хотите узнать больше о RT3s, пожалуйста, нажмите на эту ссылку: [RT3s](https://retevis.com.ua/blog/)
 
-Jekyll also offers powerful support for code snippets:
+## Как запрограммировать радио RT3S на ПК?
+1. Нам нужно скачать программное обеспечение для программирования RT3S с нашего [сайта](https://www.retevis.com/resources-center/). Выберите свою модель и загрузите соответствующее программное обеспечение.
+![HOW-TO-PROGRAM-IN-PC-SOFTWARE-Yonna-01-program-e1584495287900.png]({{site.baseurl}}/_posts/HOW-TO-PROGRAM-IN-PC-SOFTWARE-Yonna-01-program-e1584495287900.png)
+2. Загрузите и установите программное обеспечение для программирования.
+![HOW-TO-PROGRAM-IN-PC-SOFTWARE-Yonna-02-program.png]({{site.baseurl}}/_posts/HOW-TO-PROGRAM-IN-PC-SOFTWARE-Yonna-02-program.png)
+3. Прежде чем открывать программное обеспечение, включите радио и подключите его к компьютеру с помощью программного кабеля.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+4. Откройте программное обеспечение и найдите опцию «Чтение» для чтения частоты, которая гарантирует, что ваша информация не будет потеряна.
+
+5. Затем выберите опцию «Информация о канале» и программу. Диапазон частот RT3 - от 136 до 174 и от 400 до 480. Пожалуйста, убедитесь, что вы не выходите из этого, иначе вы не сможете добиться успеха.
+
+4. После того, как вы закончите, нажмите «написать на радио».
+
+Если у вас есть проблемы, вы можете обратиться к этой статье: Некоторые простые проблемы при программировании радио
+
+Если у вас есть какие-либо вопросы по этому поводу, пожалуйста, оставьте сообщение или напишите нам: Partner@retevis.com
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
