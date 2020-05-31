@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Retevis Украина"
+  name   : "Retevis"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Радиостанции Retevis и акссесуары к ним"
   links:
