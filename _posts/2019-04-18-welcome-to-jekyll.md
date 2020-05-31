@@ -24,16 +24,7 @@ published: true
 
 4. Откройте программное обеспечение и найдите опцию «Чтение» для чтения частоты, которая гарантирует, что ваша информация не будет потеряна.
 
-5. Затем выберите опцию «Информация о канале» и программу. Диапазон частот RT3 - от 136 до 174 и от 400 до 480. Пожалуйста, убедитесь, что вы не выходите из этого, иначе вы не сможете добиться успеха.
+5. Затем выберите опцию «Информация о канале» и программу. Диапазон частот RT3S - от 136 до 174 и от 400 до 480. 
 
-4. После того, как вы закончите, нажмите «написать на радио».
+4. После того, как вы закончите, нажмите «write to the radio».
 
-Если у вас есть проблемы, вы можете обратиться к этой статье: Некоторые простые проблемы при программировании радио
-
-Если у вас есть какие-либо вопросы по этому поводу, пожалуйста, оставьте сообщение или напишите нам: Partner@retevis.com
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
