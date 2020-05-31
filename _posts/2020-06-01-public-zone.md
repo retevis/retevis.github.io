@@ -3,8 +3,7 @@ title: 'Retevis RT90, RT82, RT3S: Что такое Public Zone?'
 categories:
   - Blog
 tags:
-  - Post Formats
-  - notice
+  - RT3S
 published: true
 ---
 
