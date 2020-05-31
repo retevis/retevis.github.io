@@ -1,14 +1,28 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: 'RT3S: Как получить погоду через SMS?'
+last_modified_at: {}
 categories:
   - Blog
 tags:
   - Post Formats
   - readability
   - standard
+published: true
 ---
+В сети Brandmeister есть несколько функций для запроса информации через SMS-сообщения. Для доступа к этим функциям необходимо отправить конкретные ключевые слова на уникальный идентификатор DMR. Затем система отвечает также по SMS на эти запросы. Ниже вы найдете обзор этих команд с некоторыми пояснениями. Команды не чувствительны к регистру.
 
-This post has been updated and should show a modified date if used in a layout.
+Объяснение команды:
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+> «Помощь»: справочная информация.
+"Wx": Проверьте погоду.
+"Wx Пекин": Проверьте погоду в Пекине.
+«Wx 22.54, 114.03»: проверить погоду с указанными GPS-координатами.
+
+В Китае текстовое сообщение следует отправить на номер 460990. Вы можете проверить идентификатор страны назначения на вики-странице Brandmeister.
+
+Далее я покажу вам сообщение о погоде на Retevis RT3S. Как все мы знаем, если подключиться к Brandmeister на каком-либо сервере, вам понадобится домашняя точка доступа или локальный цифровой ретранслятор, уже поддерживаемый Brandmeister. Так что на этот раз моим устройством являются Retevis RT3S и Hotspot DMR.
+
+
+Согласно команде, мы возьмем, например, «wx Пекин».
+
+Напиши текст "wx beijing" отправь по частному 460990. Вы получите прогноз погоды города Пекин сегодня.
