@@ -6,6 +6,7 @@ sidebar:
     image: /assets/images/rt3s.jpg
     image_alt: "image"
     text: "3600 грн"
+    button: "hh"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
