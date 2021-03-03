@@ -30,7 +30,7 @@ masthead_title           : "Україна" # overrides the website title displa
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 40
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -111,7 +111,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/retevisua"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
