@@ -1,4 +1,3 @@
-
 ---
 title: Прошивка Retevis RT3S
 permalink: '/ru/%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b0-retevis-rt3s/'
