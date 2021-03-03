@@ -1,18 +1,11 @@
 ---
-id: 637
 title: Прошивка Retevis RT3S
-date: 2020-03-15T15:30:11+00:00
-author: Retevis Україна
-layout: post
-guid: https://retevis.com.ua/?p=637
 permalink: '/ru/%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b0-retevis-rt3s/'
-ap_mark:
-  - Это пост был добавлен через AftParser
-ap_link:
-  - https://blog.retevis.com/index.php/how-to-properly-upgrade-rt3s-firmware/
-image: /wp-content/uploads/2020/03/06d074dc4c6c400dbfa19bb3dfb18cc1.jpg
+theaser: /wp-content/uploads/2020/03/06d074dc4c6c400dbfa19bb3dfb18cc1.jpg
 categories:
   - DMR рации
+tag:
+  - RT3S
 ---
 ## Как правильно обновить прошивку [Retevis RT3S](https://retevis.com.ua/shop/retevis-rt3s/)
 
