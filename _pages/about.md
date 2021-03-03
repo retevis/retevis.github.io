@@ -21,6 +21,17 @@ gallery:
     title: "Image 3 title caption"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+RETEVIS RT3S  –  рація стандарту DMR з функцією GPS, потужністю до 5 ват, двома діапазонами, шифруванням та сумісністю з Mototrbo Tier Ⅰ & Ⅱ.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Короткі характеристики:
+
+Аналоговий сигнал + DMR
+Сумісність з Mototrbo Tier1 & 2
+2 діапазони VHF: 136-174MHz і UHF: 400-480MHz
+Два рівня потужності передавача: High 5W Low 1W
+Чутливість приймача 0.2μV
+Пам’ять на 3 тис. каналів і 120 тис. контактів
+Вбудований диктофон (запис переговорів) до 8 годин.
+Вага (з батареєю і антеною) 258 г
+Акумулятор 2000 mAh (li-ion)
+Вбудований GPS
