@@ -53,14 +53,15 @@ RT3S поддерживает функцию записи (record) или имп
 
 #### Шаг 3: Откройте программу RT3S Firmware upgrade
 
-<img loading="lazy" class="size-full wp-image-626 aligncenter" src="https://retevis.com.ua/wp-content/uploads/2020/03/6369301444892971429203851.jpg" alt="" width="127" height="127" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/6369301444892971429203851.jpg 127w, https://retevis.com.ua/wp-content/uploads/2020/03/6369301444892971429203851-100x100.jpg 100w" sizes="(max-width: 127px) 100vw, 127px" /> Шаг 4: Кликните &#8220;Open file upgrade&#8221;, и выберите новый файл с прошивкой в формате .bin.
+<img loading="lazy" class="size-full wp-image-626 aligncenter" src="https://retevis.com.ua/wp-content/uploads/2020/03/6369301444892971429203851.jpg" alt="" width="127" height="127" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/6369301444892971429203851.jpg 127w, https://retevis.com.ua/wp-content/uploads/2020/03/6369301444892971429203851-100x100.jpg 100w" sizes="(max-width: 127px) 100vw, 127px" /> 
+#### Шаг 4: Кликните &#8220;Open file upgrade&#8221;, и выберите новый файл с прошивкой в формате .bin.
 
 <img loading="lazy" class="aligncenter wp-image-627 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/6369301454166667365505625.jpg" alt="Прошивка Retevis RT3S" width="562" height="551" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/6369301454166667365505625.jpg 562w, https://retevis.com.ua/wp-content/uploads/2020/03/6369301454166667365505625-300x294.jpg 300w" sizes="(max-width: 562px) 100vw, 562px" /> 
 
-#### Шаг 6: Нажмите &#8220;Download file of upgrade&#8221;, после чего начнется обновление
+#### Шаг 5: Нажмите &#8220;Download file of upgrade&#8221;, после чего начнется обновление
 
 <img loading="lazy" class="aligncenter wp-image-628 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/6369301456327980826303154.jpg" alt="Оновлення прошивки RT3S" width="560" height="554" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/6369301456327980826303154.jpg 560w, https://retevis.com.ua/wp-content/uploads/2020/03/6369301456327980826303154-300x297.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/6369301456327980826303154-100x100.jpg 100w" sizes="(max-width: 560px) 100vw, 560px" /> 
 
-#### Шаг 7: После того как все пройдет успешно, отключите RT3S от компьютера. Перезагрузите RT3S. Тепер вы можете проверить вашу версию прошивки.
+#### Шаг 6: После того как все пройдет успешно, отключите RT3S от компьютера. Перезагрузите RT3S. Тепер вы можете проверить вашу версию прошивки.
 
 Если у вас есть вопросы &#8211; пишите в комментариях
