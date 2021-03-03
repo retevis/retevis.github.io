@@ -2,12 +2,10 @@
 permalink: /about/
 title: "About"
 sidebar:
-  - title: "Title"
+  - title: "RT3S"
     image: /assets/images/rt3s.jpg
     image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+    text: "3600 грн"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
