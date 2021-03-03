@@ -2,7 +2,7 @@
 title: Как включить GPS в Retevis RT3S?
 date: 2020-03-14T05:25:00+00:00
 author: Retevis Україна
-permalink: '/ru/%d0%ba%d0%b0%d0%ba-%d0%b2%d0%ba%d0%bb%d1%8e%d1%87%d0%b8%d1%82%d1%8c-gps-%d0%b2-retevis-rt3s/'
+<!--permalink: '/ru/%d0%ba%d0%b0%d0%ba-%d0%b2%d0%ba%d0%bb%d1%8e%d1%87%d0%b8%d1%82%d1%8c-gps-%d0%b2-retevis-rt3s/'-->
 image: /wp-content/uploads/2020/03/Check-RT3S-GPS-information.jpg
 published: true
 ---
@@ -30,11 +30,11 @@ GPS глобальная система позиционирования &#8211;
 
 <img loading="lazy" class="alignnone wp-image-580 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/RT3S-3.png" alt="Retevis RT3S как включить GPS" width="471" height="349" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/RT3S-3.png 471w, https://retevis.com.ua/wp-content/uploads/2020/03/RT3S-3-300x222.png 300w" sizes="(max-width: 471px) 100vw, 471px" /> 
 
-### Как проверить работает ли GPS в RT3S?
+## Как проверить работает ли GPS в RT3S?
 
 Выйти на улицу, подождать несколько минут, пока значок GPS активируется. Открыть меню, найти GPS / BeyDou информацию.
 
-#### Как посмотреть информацию о другой рации ​​с GPS
+## Как посмотреть информацию о другой рации ​​с GPS
 
 Войти в меню, найти контакт, нажать &#8220;ViewGPS&#8221;.
 
