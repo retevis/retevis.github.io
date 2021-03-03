@@ -1,6 +1,6 @@
 main:
   - title: "Корисні статті"
-    url: /posts/
+    url: /categories/
   - title: "Магазин"
     url: /shopping/
   #- title: "Categories"
