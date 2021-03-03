@@ -11,11 +11,11 @@ tag:
 ### Скачайте и установите прошивку RT3S.
 Загрузите прошивку по этой ссылке: <http://www.retevis.com/resources-center>.
 
-![enter image description here](/assets/image/rt3s_firmware.jpg)
+![Выбор прошивки RT3S на сайте](/assets/images/rt3s_firmware.jpg)
 
 После загрузки запустите файл с расширением .exe для того чтобы установить программу для обновления прошивки.
 
-![enter image description here](/assets/image/rt3s_update_firmware.jpg)
+![Запуск программы для установки прошивки RT3S](/assets/images/rt3s_update_firmware.jpg)
 
 Откройте файл, который вы обнаружите. Прошивок есть 4 вида:
   * RT3S(CSV)-V17.11
