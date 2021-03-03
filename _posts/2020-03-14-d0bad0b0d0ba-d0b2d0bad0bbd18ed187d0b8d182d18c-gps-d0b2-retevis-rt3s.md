@@ -6,12 +6,6 @@ author: Retevis Україна
 layout: post
 guid: http://54.93.109.229/?p=442
 permalink: '/ru/%d0%ba%d0%b0%d0%ba-%d0%b2%d0%ba%d0%bb%d1%8e%d1%87%d0%b8%d1%82%d1%8c-gps-%d0%b2-retevis-rt3s/'
-ap_mark:
-  - Это пост был добавлен через AftParser
-ap_link:
-  - https://blog.retevis.com/index.php/how-rt3s-gps-function-works/
-wpglobus_language:
-  - ru
 image: /wp-content/uploads/2020/03/Check-RT3S-GPS-information.jpg
 categories:
   - DMR рации
