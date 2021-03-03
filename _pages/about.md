@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "RETEVIS RT3S"
 sidebar:
   - title: "RT3S"
     image: /assets/images/rt3s.jpg
