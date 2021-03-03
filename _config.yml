@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "es-ES"
+locale                   : "fr"
 title                    : "Retevis Україна"
 title_separator          : "-"
 subtitle                 : #"Авторизований дистриб'ютор Retevis в Україні" # site tagline that appears below site title in masthead
