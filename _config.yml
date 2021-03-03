@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: username
 minimal_mistakes_skin: dark
 search: true
-locale: ru
+locale: es
 
 # Build settings
 markdown: kramdown
