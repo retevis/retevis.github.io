@@ -20,6 +20,9 @@ gallery:
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 RETEVIS RT3S  –  рація стандарту DMR з функцією GPS, потужністю до 5 ват, двома діапазонами, шифруванням та сумісністю з Mototrbo Tier Ⅰ & Ⅱ.
