@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
+    image: /assets/images/rt3s.jpg
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
