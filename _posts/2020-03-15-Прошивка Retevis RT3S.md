@@ -51,11 +51,11 @@ RT3S поддерживает функцию записи (record) или имп
 
 #### Шаг 4: Кликните "Open file upgrade";, и выберите новый файл с прошивкой в формате .bin.
 
-![Open file upgrade RT3S](open-file-upgrade.jpg)
+![Open file upgrade RT3S](/assets/images/open-file-upgrade.jpg)
 
 #### Шаг 5: Нажмите "Download file of upgrade", после чего начнется обновление
 
-![Download file of upgrade RT3S](download-file-of-upgrade.jpg)
+![Download file of upgrade RT3S](/assets/images/download-file-of-upgrade.jpg)
 
 #### Шаг 6: Проверка
 
