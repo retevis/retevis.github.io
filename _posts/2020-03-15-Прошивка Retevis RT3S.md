@@ -1,3 +1,4 @@
+
 ---
 title: Прошивка Retevis RT3S
 permalink: '/ru/%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b0-retevis-rt3s/'
@@ -8,21 +9,16 @@ tag:
   - RT3S
 ---
 ## Как правильно обновить прошивку [Retevis RT3S](https://retevis.com.ua/shop/retevis-rt3s/)
-
-
-
 ### Скачайте и установите прошивку RT3S.
+Загрузите прошивку по этой ссылке: <http://www.retevis.com/resources-center>.
 
-Загрузите прошивку по этой ссылке: <http://www.retevis.com/resources-center>.
-
-<img loading="lazy" class="aligncenter wp-image-622 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/6369301281590997744645293.jpg" alt="RT3S оновити прошивку" width="600" height="165" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/6369301281590997744645293.jpg 600w, https://retevis.com.ua/wp-content/uploads/2020/03/6369301281590997744645293-300x83.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /> 
+![enter image description here](/assets/image/rt3s_firmware.jpg)
 
 После загрузки запустите файл с расширением .exe для того чтобы установить программу для обновления прошивки.
 
-<img loading="lazy" class="aligncenter wp-image-624 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/6369301368669341423226265-1.jpg" alt="Оновлення прошивки Retevis RT3S" width="596" height="267" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/6369301368669341423226265-1.jpg 596w, https://retevis.com.ua/wp-content/uploads/2020/03/6369301368669341423226265-1-300x134.jpg 300w" sizes="(max-width: 596px) 100vw, 596px" /> 
+![enter image description here](/assets/image/rt3s_update_firmware.jpg)
 
 Откройте файл, который вы обнаружите. Прошивок есть 4 вида:
-
   * RT3S(CSV)-V17.11
   * RT3S(CSV-GPS)-P17.11
   * RT3S(GPS-REC)-S17.11
@@ -36,11 +32,11 @@ Retevis RT3S имеет две аппаратные версии: [GPS](https://
 
 RT3S поддерживает функцию записи (record) или импорт 120 000 контактов. Необходимо выбрать что-то одно: RT3S не может поддерживать их одновременно. Вот почему есть две разные версии прошивки. Если мы считаем, что контакты важны для нас, мы можем обновить программное обеспечение CSV. Если мы считаем, что запись переговоров важна, мы можем обновить программное обеспечение REC.
 
-> О том как использовать функцию диктофона (Record) читайте в [нашей статье](https://retevis.com.ua/rt3s-%d1%8f%d0%ba-%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d0%b8-%d0%bf%d0%b5%d1%80%d0%b5%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b8/).
+> О том как использовать функцию диктофона (Record) читайте в [нашей статье](https://retevis.com.ua/rt3s-%d1%8f%d0%ba-%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d0%b8-%d0%bf%d0%b5%d1%80%d0%b5%d0%b3%d0%be%d0%b2%d0%be%d1%80%d0%b8/).
 
 #### Шаг 1. Ваша рация должна быть подключена к компьютеру 
 
-<span style="font-weight: 600;">c помощью</span>** **<a style="font-weight: bold;" href="https://retevis.com.ua/shop/%d0%ba%d0%b0%d0%b1%d0%b5%d0%bb%d1%8c-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-dmr/">кабеля для программирования</a><a style="font-weight: bold;" href="https://retevis.com.ua/shop/%d0%ba%d0%b0%d0%b1%d0%b5%d0%bb%d1%8c-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-dmr/"> Retevis RT3S</a>**.**
+<span style="font-weight: 600;">c помощью</span>** **<a style="font-weight: bold;" href="https://retevis.com.ua/shop/%d0%ba%d0%b0%d0%b1%d0%b5%d0%bb%d1%8c-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-dmr/">кабеля для программирования</a><a style="font-weight: bold;" href="https://retevis.com.ua/shop/%d0%ba%d0%b0%d0%b1%d0%b5%d0%bb%d1%8c-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-dmr/"> Retevis RT3S</a>**.**
 
 <figure id="attachment_285" aria-describedby="caption-attachment-285" style="width: 300px" class="wp-caption aligncenter"><img loading="lazy" class="size-medium wp-image-285" src="https://ae01.alicdn.com/kf/HTB1jSnfNwHqK1RjSZFkq6x.WFXav/Special-RETEVIS-USB-Programming-Cable-For-Retevis-RT3-RT8-RT3S-RT52-For-TYT-MD-380-MD.jpg_350x350.jpg" alt="Special RETEVIS USB Programming Cable For Retevis RT3 RT8 RT3S RT52 For TYT MD-380 MD-390 MD 380 DMR Radio Walkie Talkie J9110P" width="300" height="300" /><figcaption id="caption-attachment-285" class="wp-caption-text">Кабель для программирования Retevis RT3S</figcaption></figure>
 
