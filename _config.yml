@@ -19,7 +19,7 @@ locale                   : "fr"
 title                    : "Retevis Україна"
 title_separator          : "-"
 subtitle                 : #"Авторизований дистриб'ютор Retevis в Україні" # site tagline that appears below site title in masthead
-name                     : "Retevis"
+name                     : "Retevis Україна"
 description              : "Авторизований дистриб'ютор Retevis в Україні"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
