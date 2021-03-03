@@ -1,0 +1,103 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://54.93.109.229
+Data file = /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/theme-freesia-demo-import/files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Пошук - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Архіви - No Title - Widget already exists
+Категорії - No Title - Widget already exists
+Мета - No Title - Widget already exists
+
+Top Header Info : 
+
+Текст - No Title - Imported
+
+Advertisement Banner One : 
+
+Зображення - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Товари - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Мітка товару - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+HTML код - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Категорії товарів - Product categories - Imported
+Активні фільтри - Active filters - Imported
+Фільтр по ціні - Filter by price - Imported
+Товари - Products - Imported
+Не знайдено жодної Мітки продуктів - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Товари - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Товари - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Товари - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Товари - Products - Imported
+
+Footer Column 1 : 
+
+Текст - No Title - Imported
+
+Footer Column 2 : 
+
+HTML код - We Accept - Imported
+
+Footer Column 3 : 
+
+HTML код - Shop Location - Imported
+
+Footer Column 4 : 
+
+Зображення - Download App - Imported
+Зображення - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+Товари - Products - Imported
+Текст - No Title - Imported
+Товари - Products - Imported
+Текст - No Title - Imported
+Max Mega Menu - No Title - Imported
+Меню навігації - No Title - Imported
+Зображення - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+

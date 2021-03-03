@@ -1,0 +1,7 @@
+/**handles:np-frontend-style**/
+.еwoocommerce-shipping-destination{
+  display: none;
+}
+.woocommerce-input-wrapper .select2-container{
+  width: 100% !important;
+}
