@@ -1,7 +1,5 @@
 ---
 title: Как включить GPS в Retevis RT3S?
-date: 2020-03-14T05:25:00+00:00
-author: Retevis Україна
 permalink: '/ru/%d0%ba%d0%b0%d0%ba-%d0%b2%d0%ba%d0%bb%d1%8e%d1%87%d0%b8%d1%82%d1%8c-gps-%d0%b2-retevis-rt3s/'
 image: /wp-content/uploads/2020/03/Check-RT3S-GPS-information.jpg
 published: true
