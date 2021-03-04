@@ -293,7 +293,7 @@ defaults:
   # _products
   - scope:
       path: "_products"
-      type: posts
+      type: pages
     values:
       layout: product
       author_profile: false
