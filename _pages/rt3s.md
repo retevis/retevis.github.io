@@ -3,13 +3,13 @@ title: "Retevis RT3S"
 layout: posts
 permalink: /rt3s/
 date: 2016-03-23T11:48:41-04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/rt3s.jpg
-  actions:
-    - label: "Замовити"
-      url: "https://facebook.com/retevisua"
+# header:
+#   overlay_color: "#000"
+#   overlay_filter: "0.5"
+#   overlay_image: /assets/images/rt3s.jpg
+#   actions:
+#     - label: "Замовити"
+#       url: "https://facebook.com/retevisua"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   title: "Title"
 excerpt: "RETEVIS RT3S  –  рація стандарту DMR з функцією GPS, потужністю до 5 ват, двома діапазонами, шифруванням та сумісністю з Mototrbo Tier Ⅰ & Ⅱ."
@@ -55,6 +55,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
