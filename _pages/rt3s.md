@@ -79,3 +79,43 @@ feature_row4:
 - Вага (з батареєю і антеною) 258 г
 - Акумулятор 2000 mAh (li-ion)
 - Вбудований GPS
+
+| Специфікація                   |
+| ------------------------------ |
+| Частоти                        | 136-174MHz &400-480MHz |
+| Канали                         | 3000 |
+| Стабільність частоти           | #ERROR! |
+| Температура                    | \-30℃~+60℃ |
+| Вольтаж                        | 7.4V DC |
+| Розміри                        | 131 x 61 x 36mm |
+| Вага                           | 258g (за батареєю) |
+| Аккумулятор                    | Li-ion |
+| Місткість аккумулятора         | 2000mAh |
+| Антенна                        | 50Omega |
+| Аудіо                          | 1W 16Omega |
+| Ширина каналу                  | 12.5KHz |
+| Vocoder                        | AMBE+2trade |
+| Передавач                      |
+| Потужність                     | Highle 5W, Lowle 1W |
+| Стабільність частоти           | plusmn1.0ppm |
+| Adjacent Channel Power         | le-60dB |
+| Free Time Slot Power           | TDMA:le57dBm |
+| Hum and noise                  | \-40dB 12.5KHz |
+| Spurious radiation             | Antenna:9KHz-1GHz le-36dBm<br>1GHz-12.75GHz le-30dBm |
+| FM modulation mode             | 11K0F3E 12.5KHz |
+| 4FSK digital mode              | 12.5KHz(data only):7K60FXD<br>12.5KHz(data and voice):7K60FXW |
+| Modulation maximum deviation   | 2.5KHz 12.5KHz |
+| Nonactive slot power           | \-57dBm |
+| Digital Protocol               | ETSI-TS102 361-1,-2,-3 |
+| Audio Response                 | #ERROR! |
+| Modulation BER(bit error rate) | le5% |
+| Приймач                        |
+| Analog Sensibility             | 0.2microV 12dB SINAD |
+| Digital Sensibility            | 0.25microV(BER:5%) |
+| Adjacent Channel Selectivity   | le-60dB 12.5KHz |
+| Intermodulation                | le60dB |
+| Spurious Response              | ge70dB |
+| Audio Response                 | #ERROR! |
+| Rated Audio Distortion         | ＜5% |
+| Rated Audio Power              | 1W |
+| Modulation                     | ge45dB 25KHz<br>ge40dB 12.5KHz |
