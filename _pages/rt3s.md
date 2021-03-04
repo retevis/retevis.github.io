@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/rt3s.jpg
   actions:
-    - label: "Download"
+    - label: "Замовити"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "RETEVIS RT3S  –  рація стандарту DMR з функцією GPS, потужністю до 5 ват, двома діапазонами, шифруванням та сумісністю з Mototrbo Tier Ⅰ & Ⅱ."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
