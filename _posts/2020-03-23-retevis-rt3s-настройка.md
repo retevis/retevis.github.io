@@ -1,36 +1,31 @@
 ---
-id: 866
 title: 'Retevis RT3S: Настройка рации. Введение'
-date: 2020-03-23T22:00:00+00:00
-author: Retevis Україна
-layout: post
-guid: https://retevis.com.ua/?p=866
+date: 2021-03-04T22:00:00+00:00
 permalink: '/ru/retevis-rt3s-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9%d0%ba%d0%b0/'
-ap_mark:
-  - Это пост был добавлен через AftParser
-ap_link:
-  - https://blog.retevis.com/index.php/rt3s-software-introduction/
 image: /wp-content/uploads/2020/03/software-3-RT3S.png
 categories:
   - DMR рации
+tags:
+  - RT3S
 ---
-Цифровая DMR-радиостанция [Retevis RT3S](https://retevis.com.ua/shop/retevis-rt3s/) имеет множество функций. Чтобы получить доступ ко всем настройкам вам нужно использовать программное обеспечение. Программа называется CPS. Также программирования рации не следует путать с прошивкой. Как прошивать рацию RT3S я рассказываю в [другой статье](https://retevis.com.ua/ru/%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b0-retevis-rt3s/).
+Цифровая DMR-радиостанция Retevis RT3S имеет множество функций. Чтобы получить доступ ко всем настройкам вам нужно использовать программное обеспечение. Программа называется CPS. Также программирования рации не следует путать с прошивкой. Как прошивать рацию RT3S я рассказываю в [другой статье](https://retevis.com.ua/ru/%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b0-retevis-rt3s/).
 
-Если вы не знаете как программировать радиостанцию, или вы новичок &#8211; эта статья для вас.
+Если вы не знаете как программировать радиостанцию, или вы новичок - эта статья для вас.
 
 Ниже пример как запрограммировать рацию RT3S с помощью компьютера.
 
-<span style="color: #2b2b2b; font-size: 2.1em;">Где скачать программное обеспечение?</span>
+## Где скачать программное обеспечение?
 
-Перейдите на официальный ресурсный центр по ссылке: <http://www.retevis.com/resources-center>. Найдите вашу модель RT3S и кликните &#8220;загрузить&#8221;. После загрузки и установки запустите программу CPS для вашей модели рации.
+Перейдите на официальный ресурсный центр по ссылке: <http://www.retevis.com/resources-center>. Найдите вашу модель RT3S и кликните "загрузить". После загрузки и установки запустите программу CPS для вашей модели рации.
 
-<figure id="attachment_833" aria-describedby="caption-attachment-833" style="width: 1418px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-833 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S.jpg" alt="RT3S программа" width="1418" height="534" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S.jpg 1418w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-300x113.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-1024x386.jpg 1024w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-768x289.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-600x226.jpg 600w" sizes="(max-width: 1418px) 100vw, 1418px" /><figcaption id="caption-attachment-833" class="wp-caption-text">_RT3S: Как выглядит программа CPS_</figcaption></figure>
+![RT3S программа](https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S.jpg)
+*RT3S: Как выглядит программа CPS*
 
-### **Меню**
+### Меню
+####  1. **Basic information:** В этом разделе вы узнаете диапазон вашей радиостанции, версию вашего программного обеспечения.
+####  2. **General Setting**: Этот пункт меню отвечает за такие настройки как: Radio ID, Radio Name, Albert Tone, и другие функции на скриншоте ниже. 
 
-  1. **Basic information:** В этом разделе вы узнаете диапазон вашей радиостанции, версию вашего программного обеспечения.
-  2. **General Setting**: Этот пункт меню отвечает за такие настройки как: Radio ID, Radio Name, Albert Tone, и другие функции на скриншоте ниже. 
-    <figure id="attachment_835" aria-describedby="caption-attachment-835" style="width: 1073px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-835 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1.png" alt="RT3S меню програми" width="1073" height="736" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1.png 1073w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-300x206.png 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-1024x702.png 1024w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-768x527.png 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-600x412.png 600w" sizes="(max-width: 1073px) 100vw, 1073px" /><figcaption id="caption-attachment-835" class="wp-caption-text">_Раздел &#8220;General settings&#8221; в программном обеспечении_</figcaption></figure></li> 
+<figure id="attachment_835" aria-describedby="caption-attachment-835" style="width: 1073px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-835 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1.png" alt="RT3S меню програми" width="1073" height="736" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1.png 1073w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-300x206.png 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-1024x702.png 1024w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-768x527.png 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-600x412.png 600w" sizes="(max-width: 1073px) 100vw, 1073px" /><figcaption id="caption-attachment-835" class="wp-caption-text">_Раздел &#8220;General settings&#8221; в программном обеспечении_</figcaption></figure></li> 
     
       * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Menu Item</strong>: При выборе этого пункта, вы перейдете в раздел настройки меню вашей рации.</span></span> 
         <figure id="attachment_836" aria-describedby="caption-attachment-836" style="width: 596px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-836 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt.png" alt="RT3S програма" width="596" height="395" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt.png 596w, https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt-300x199.png 300w" sizes="(max-width: 596px) 100vw, 596px" /><figcaption id="caption-attachment-836" class="wp-caption-text">_Раздел &#8220;Menu item&#8221; программы_</figcaption></figure></li> 
