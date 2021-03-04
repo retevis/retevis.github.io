@@ -19,7 +19,7 @@ tags:
 
 Перейдите на официальный ресурсный центр по ссылке: <http://www.retevis.com/resources-center>. Найдите вашу модель RT3S и кликните "загрузить". После загрузки и установки запустите программу CPS для вашей модели рации.
 
-![RT3S программа](https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S.jpg)
+![RT3S программа](/wp-content/uploads/2020/03/software-1-RT3S.jpg)
 *RT3S: Как выглядит программа CPS*
 
 ## Меню
@@ -28,31 +28,41 @@ tags:
 ### General Setting
 Этот пункт меню отвечает за такие настройки как: Radio ID, Radio Name, Albert Tone, и другие функции на скриншоте ниже. 
 
-![RT3S меню программы](https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1.png)
+![RT3S меню программы](/wp-content/uploads/2020/03/software-3-RT3S-1.png)
 *Раздел "General settings" в программном обеспечении*
 
 ### Item
 При выборе этого пункта, вы перейдете в раздел настройки меню вашей рации.
 
-![RT3S програма](https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt.png)
+![RT3S програма](/wp-content/uploads/2020/03/software-4-rt.png)
 *Раздел "Menu item" программы*
 
-- **Buttons Definitions:** RT3S имеет 2 функциональные боковые кнопки по бокам от тангенты ("PTT"). Вы можете определить, за какую функцию будет отвечать каждая из кнопок. 
+### Buttons Definitions
+RT3S имеет 2 функциональные боковые кнопки по бокам от тангенты ("PTT"). Вы можете определить, за какую функцию будет отвечать каждая из кнопок. 
 
-![RT3S Soft](https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S.png)
+![RT3S Soft](/wp-content/uploads/2020/03/software-5-RT3S.png)
 *Пункт "Buttons Definitions" в программном обеспечении Retevis RT3S*
-            <figure id="attachment_837" aria-describedby="caption-attachment-837" style="width: 863px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-837 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S.png" alt="RT3S Soft" width="863" height="672" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S.png 863w, https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S-300x234.png 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S-768x598.png 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S-600x467.png 600w" sizes="(max-width: 863px) 100vw, 863px" /><figcaption id="caption-attachment-837" class="wp-caption-text">_Пункт &#8220;Buttons Definitions&#8221; в программном обеспечении Retevis RT3S_</figcaption></figure></li> 
-            
-              * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Text message</strong>: Вы можете настроить пресеты текстовых сообщений. Они будут сохранены как &#8220;Quick Text&#8221;.</span></span> 
-                <figure id="attachment_5288" aria-describedby="caption-attachment-5288" style="width: 542px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-5288 size-full" src="http://blog.retevis.com/wp-content/uploads/2018/06/software-16.png" alt="RT3S soft settings" width="542" height="371" /><figcaption id="caption-attachment-5288" class="wp-caption-text">_Раздел &#8220;Text message&#8221; в меню программы_</figcaption></figure></li> 
+           
+### Text message
+Вы можете настроить пресеты текстовых сообщений. Они будут сохранены как "Quick Text".
+
+![RT3S soft settings](http://blog.retevis.com/wp-content/uploads/2018/06/software-16.png)
+*Раздел "Text message" в меню программы*
                 
-                  * <span style="font-size: inherit;"><strong>Privacy setting</strong>: RT3S имеет два типа шифрования. Базовый &#8220;Basic&#8221; на 4 bit и &#8220;Enhanced&#8221; на 32 bit.</span> 
-                    <figure id="attachment_841" aria-describedby="caption-attachment-841" style="width: 749px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-841 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-15.jpg" alt="RT3S розділ шифрування" width="749" height="540" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-15.jpg 749w, https://retevis.com.ua/wp-content/uploads/2020/03/software-15-300x216.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-15-600x433.jpg 600w" sizes="(max-width: 749px) 100vw, 749px" /><figcaption id="caption-attachment-841" class="wp-caption-text">_Два типа шифрования в рации Retevis RT3S. Раздел &#8220;Privacy setting&#8221;_</figcaption></figure></li> 
+### Privacy setting
+RT3S имеет два типа шифрования. Базовый "Basic" на 4 bit и "Enhanced" на 32 bit.
+
+![RT3S раздел шифрования](/wp-content/uploads/2020/03/software-15.jpg)
+*Два типа шифрования в рации Retevis RT3S. Раздел "Privacy setting"*
+ 
+### Digit Emergency System
+Пользователи могут настроить экстренный вызов на базовую станцию или на другие радиостанции. Кроме того, позывные раций, которые выдают сигнал тревоги отображаются на устройствах с дисплеем. 
+
+![RT3S Software](/wp-content/uploads/2020/03/software-14-1.jpg)
+*Настройка функции экстренного вызова "Digit Emergency System" в меню программы*
                     
-                      * **Digit Emergency System**: пользователи могут настроить экстренный вызов на базовую станцию или на другие радиостанции. Кроме того, позывные раций, которые выдают сигнал тревоги отображаются на устройствах с дисплеем. 
-                        <figure id="attachment_843" aria-describedby="caption-attachment-843" style="width: 928px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-843 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1.jpg" alt="RT3S Software" width="928" height="520" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1.jpg 928w, https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1-300x168.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1-768x430.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1-600x336.jpg 600w" sizes="(max-width: 928px) 100vw, 928px" /><figcaption id="caption-attachment-843" class="wp-caption-text">_Настройка функции экстренного вызова &#8220;Digit Emergency System» в меню программы_</figcaption></figure></li> 
-                        
-                          * <span style="font-size: inherit;"><strong>Digital Contact</strong>: Вы можете загрузить до 10,000 контактов в этом разделе. Нажмите &#8220;Import&#8221;, чтобы загрузить ваш csv-файл с контактами.</span> 
+### Digital Contact
+Вы можете загрузить до 10,000 контактов в этом разделе. Нажмите "Import", чтобы загрузить ваш csv-файл с контактами.
                             <figure id="attachment_845" aria-describedby="caption-attachment-845" style="width: 619px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-845 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-12.jpg" alt="RT3S програмне забезпечення" width="619" height="454" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-12.jpg 619w, https://retevis.com.ua/wp-content/uploads/2020/03/software-12-300x220.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-12-600x440.jpg 600w" sizes="(max-width: 619px) 100vw, 619px" /><figcaption id="caption-attachment-845" class="wp-caption-text">_Раздел &#8220;Digital Contact&#8221; в меню программирования RT3S_</figcaption></figure></li> 
                             
                               * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Digital RX Group Call</strong>: Вы можете добавить здесь 250 списков групп (Group lists). Сделайте ваши групповые вызовы проще и быстрее!</span></span> 
