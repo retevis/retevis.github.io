@@ -29,7 +29,10 @@ tags:
 ![RT3S меню программы](https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1.png)
 *Раздел "General settings" в программном обеспечении*
     
-      * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Menu Item</strong>: При выборе этого пункта, вы перейдете в раздел настройки меню вашей рации.</span></span> 
+3. **Menu Item** При выборе этого пункта, вы перейдете в раздел настройки меню вашей рации.
+
+![RT3S програма](https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt.png)
+*Раздел "Menu item" программы*
         <figure id="attachment_836" aria-describedby="caption-attachment-836" style="width: 596px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-836 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt.png" alt="RT3S програма" width="596" height="395" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt.png 596w, https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt-300x199.png 300w" sizes="(max-width: 596px) 100vw, 596px" /><figcaption id="caption-attachment-836" class="wp-caption-text">_Раздел &#8220;Menu item&#8221; программы_</figcaption></figure></li> 
         
           * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Buttons Definitions</strong>: RT3S имеет 2 функциональные боковые кнопки по бокам от тангенты (&#8220;PTT&#8221;). Вы можете определить, за какую функцию будет отвечать каждая из кнопок.</span></span> 
