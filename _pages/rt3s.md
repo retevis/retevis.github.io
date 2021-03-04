@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/rt3s.jpg
   actions:
     - label: "Замовити"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://facebook.com/retevisua"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   title: "Title"
 excerpt: "RETEVIS RT3S  –  рація стандарту DMR з функцією GPS, потужністю до 5 ват, двома діапазонами, шифруванням та сумісністю з Mototrbo Tier Ⅰ & Ⅱ."
