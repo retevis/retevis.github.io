@@ -3,6 +3,7 @@ title: 'Retevis RT3S: Настройка рации. Введение'
 date: 2021-03-04T22:00:00+00:00
 permalink: '/ru/retevis-rt3s-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9%d0%ba%d0%b0/'
 image: /wp-content/uploads/2020/03/software-3-RT3S.png
+description: 'Инструкция: ➤ Как настроить рацию Retevis RT3S. ➤ Где скачать программу. ➤ Как выбрать версию. ➤ Какие есть настройки.'
 categories:
   - DMR рации
 tags:
