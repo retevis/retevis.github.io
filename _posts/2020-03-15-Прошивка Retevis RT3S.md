@@ -4,7 +4,7 @@ permalink: '/ru/%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b0-retevis-rt3s/'
 theaser: /wp-content/uploads/2020/03/06d074dc4c6c400dbfa19bb3dfb18cc1.jpg
 categories:
   - DMR рации
-tag:
+tags:
   - RT3S
 ---
 ## Как правильно обновить прошивку Retevis RT3S
