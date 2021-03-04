@@ -290,3 +290,10 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _products
+  - scope:
+      path: "_products"
+      type: posts
+    values:
+      layout: product
+      author_profile: false
