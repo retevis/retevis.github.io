@@ -23,8 +23,10 @@ tags:
 *RT3S: Как выглядит программа CPS*
 
 ## Меню
+
 ### Basic information 
 В этом разделе вы узнаете диапазон вашей радиостанции, версию вашего программного обеспечения.
+
 ### General Setting
 Этот пункт меню отвечает за такие настройки как: Radio ID, Radio Name, Albert Tone, и другие функции на скриншоте ниже. 
 
@@ -64,24 +66,42 @@ RT3S имеет два типа шифрования. Базовый "Basic" н�
                     
 ### Digital Contact
 Вы можете загрузить до 10,000 контактов в этом разделе. Нажмите "Import", чтобы загрузить ваш csv-файл с контактами.
-                            <figure id="attachment_845" aria-describedby="caption-attachment-845" style="width: 619px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-845 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-12.jpg" alt="RT3S програмне забезпечення" width="619" height="454" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-12.jpg 619w, https://retevis.com.ua/wp-content/uploads/2020/03/software-12-300x220.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-12-600x440.jpg 600w" sizes="(max-width: 619px) 100vw, 619px" /><figcaption id="caption-attachment-845" class="wp-caption-text">_Раздел &#8220;Digital Contact&#8221; в меню программирования RT3S_</figcaption></figure></li> 
-                            
-                              * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Digital RX Group Call</strong>: Вы можете добавить здесь 250 списков групп (Group lists). Сделайте ваши групповые вызовы проще и быстрее!</span></span> 
-                                <figure id="attachment_848" aria-describedby="caption-attachment-848" style="width: 620px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-848 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-11.jpg" alt="Retevis RT3S CPS інтерфейс" width="620" height="468" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-11.jpg 620w, https://retevis.com.ua/wp-content/uploads/2020/03/software-11-300x226.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-11-600x453.jpg 600w" sizes="(max-width: 620px) 100vw, 620px" /><figcaption id="caption-attachment-848" class="wp-caption-text">_Настройка групповых вызовов в разделе &#8220;Digital RX Group Call&#8221; в RT3S_</figcaption></figure></li> 
-                                
-                                  * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Zone information</strong>: У вас есть возможность добавить 250 зон каналов. Распределите каналы по зонам. Сделайте поиск необходимого канала легче!</span></span> 
-                                    <figure id="attachment_850" aria-describedby="caption-attachment-850" style="width: 914px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-850 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-9.jpg" alt="RT3S запрограммировать" width="914" height="580" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-9.jpg 914w, https://retevis.com.ua/wp-content/uploads/2020/03/software-9-300x190.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-9-768x487.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-9-600x381.jpg 600w" sizes="(max-width: 914px) 100vw, 914px" /><figcaption id="caption-attachment-850" class="wp-caption-text">_ Создание зон каналов в программном обеспечении CPS_</figcaption></figure></li> 
-                                    
-                                      * **Scan list**: Вы можете добавить 250 списков сканирования (scan lists) здесь. Больше возможностей для ваших нужд сканирования! 
-                                        <figure id="attachment_851" aria-describedby="caption-attachment-851" style="width: 755px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-851 size-full" title="Розділ &quot;Scan list&quot; в меню CPS" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-8.jpg" alt="Scan List RT3S" width="755" height="587" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-8.jpg 755w, https://retevis.com.ua/wp-content/uploads/2020/03/software-8-300x233.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-8-600x466.jpg 600w" sizes="(max-width: 755px) 100vw, 755px" /><figcaption id="caption-attachment-851" class="wp-caption-text">_Розділ &#8220;Scan list&#8221; в меню CPS_</figcaption></figure></li> 
-                                        
-                                          * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Channel Information</strong>: Возможность добавить 3000 каналов в этом разделе. Можно настроить TX-частоту и RX-частоту, channel mode (analog / digital) и прочее. Загружайте информацию о ваших каналах тут.</span></span> 
-                                            <figure id="attachment_852" aria-describedby="caption-attachment-852" style="width: 943px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-852 size-full" title="Налаштування каналів у розділі &quot;Channel Information&quot; RT3S" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-7.jpg" alt="Налаштування каналів Retevis RT3S" width="943" height="722" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-7.jpg 943w, https://retevis.com.ua/wp-content/uploads/2020/03/software-7-300x230.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-7-768x588.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-7-600x459.jpg 600w" sizes="(max-width: 943px) 100vw, 943px" /><figcaption id="caption-attachment-852" class="wp-caption-text">_Настройка каналов в разделе &#8220;Channel Information&#8221;_</figcaption></figure></li> 
-                                            
-                                              * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>TMF Signaling</strong>: Имеет 4 системы, 32 Encodes и 8 Decodes.</span></span> 
-                                                <figure id="attachment_853" aria-describedby="caption-attachment-853" style="width: 618px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-853 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-6.jpg" alt="TMF Signaling" width="618" height="456" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-6.jpg 618w, https://retevis.com.ua/wp-content/uploads/2020/03/software-6-300x221.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-6-600x443.jpg 600w" sizes="(max-width: 618px) 100vw, 618px" /><figcaption id="caption-attachment-853" class="wp-caption-text">_Раздел &#8220;TMF Signaling&#8221; в меню_</figcaption></figure></li> 
-                                                
-                                                  * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>VFO mode</strong>: RT3S имеет функцию режим VFO. Когда вы находитесь в режиме VFO, вы можете устанавливать частоту вашей рации с клавиатуры.</span></span> 
+
+![RT3S Software Digital Contact](/wp-content/uploads/2020/03/software-12.jpg)
+*Раздел "Digital Contact" в меню программирования RT3S*
+                      
+### Digital RX Group Call
+Вы можете добавить здесь 250 списков групп (Group lists). Сделайте ваши групповые вызовы проще и быстрее!
+
+![RT3S Software Digital RX Group Call](/wp-content/uploads/2020/03/software-12.jpg)
+*Настройка групповых вызовов в разделе "Digital RX Group Call" в RT3S*
+
+### Zone information
+У вас есть возможность добавить 250 зон каналов. Распределите каналы по зонам. Сделайте поиск необходимого канала легче!
+
+![RT3S запрограммировать](/wp-content/uploads/2020/03/software-9.jpg)
+*Создание зон каналов в программном обеспечении CPS*
+      
+### Scan list
+Вы можете добавить 250 списков сканирования (scan lists) здесь. Больше возможностей для ваших нужд сканирования! 
+
+![RT3S запрограммировать Scan list](/wp-content/uploads/2020/03/software-8.jpg)
+*Раздел "Scan list" в меню CPS*
+                                       
+### Channel Information
+Возможность добавить 3000 каналов в этом разделе. Можно настроить TX-частоту и RX-частоту, channel mode (analog / digital) и прочее. Загружайте информацию о ваших каналах тут.
+
+![RT3S Channel Information](/wp-content/uploads/2020/03/software-7.jpg)
+*Настройка каналов в разделе "Channel Information"*
+                                          
+### TMF Signaling
+Имеет 4 системы, 32 Encodes и 8 Decodes.
+
+![RT3S TMF Signaling](/wp-content/uploads/2020/03/software-6.jpg)
+*Раздел "TMF Signaling" в меню*
+
+### VFO mode
+RT3S имеет функцию режим VFO. Когда вы находитесь в режиме VFO, вы можете устанавливать частоту вашей рации с клавиатуры.
                                                     <figure id="attachment_859" aria-describedby="caption-attachment-859" style="width: 981px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-859 size-full" title="VFO Retevis RT3S" src="https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S.jpg" alt="VFO Retevis RT3S" width="981" height="720" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S.jpg 981w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-300x220.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-768x564.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-600x440.jpg 600w" sizes="(max-width: 981px) 100vw, 981px" /><figcaption id="caption-attachment-859" class="wp-caption-text">_Настройка пункта &#8220;VFO mode&#8221; в CPS для Retevis RT3S_</figcaption></figure></li> 
                                                     
                                                       * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>GPS System</strong>: Для раций с GPS. Вы можете настроить 16 systems.</span></span> 
