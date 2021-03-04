@@ -96,6 +96,7 @@ feature_row4:
 | Ширина каналу                  | 12.5KHz |
 | Vocoder                        | AMBE+2trade |
 | Передавач                      |
+| ------------------------------ |
 | Потужність                     | Highle 5W, Lowle 1W |
 | Стабільність частоти           | plusmn1.0ppm |
 | Adjacent Channel Power         | le-60dB |
@@ -110,6 +111,7 @@ feature_row4:
 | Audio Response                 | #ERROR! |
 | Modulation BER(bit error rate) | le5% |
 | Приймач                        |
+| ------------------------------ |
 | Analog Sensibility             | 0.2microV 12dB SINAD |
 | Digital Sensibility            | 0.25microV(BER:5%) |
 | Adjacent Channel Selectivity   | le-60dB 12.5KHz |
