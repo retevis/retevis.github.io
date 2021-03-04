@@ -267,7 +267,10 @@ compress_html:
   ignore:
     envs: development
 
-
+# Custom Collections
+collections:
+  products:
+    output: true
 # Defaults
 defaults:
   # _posts
@@ -294,7 +297,7 @@ defaults:
   # _products
   - scope:
       path: "_products"
-      type: pages
+      type: products
     values:
       layout: product
       
