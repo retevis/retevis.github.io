@@ -8,8 +8,8 @@ categories:
 tags:
   - RT3S
 ---
-## Як правильно оновити прошивку [Retevis RT3S](https://retevis.com.ua/shop/retevis-rt3s/)
-### Завантажте та встановіть прошивку [RT3S](https://retevis.com.ua/shop/retevis-rt3s/).
+## Як правильно оновити прошивку Retevis RT3S
+### Завантажте та встановіть прошивку RT3S.
 
 Завантажте прошивку RT3S звідси <http://www.retevis.com/resources-center>.
 
