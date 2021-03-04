@@ -66,9 +66,6 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="center" %}
 
-
-**RETEVIS RT3S**  –  рація стандарту DMR з функцією GPS, потужністю до 5 ват, двома діапазонами, шифруванням та сумісністю з Mototrbo Tier Ⅰ & Ⅱ.
-
 ## Короткі характеристики:
 
 - Аналоговий сигнал + DMR
