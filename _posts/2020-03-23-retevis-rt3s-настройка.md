@@ -47,6 +47,7 @@ RT3S имеет 2 функциональные боковые кнопки по 
 Вы можете настроить пресеты текстовых сообщений. Они будут сохранены как "Quick Text".
 
 ![RT3S soft settings](http://blog.retevis.com/wp-content/uploads/2018/06/software-16.png)
+
 *Раздел "Text message" в меню программы*
                 
 ### Privacy setting
