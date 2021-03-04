@@ -111,6 +111,7 @@ feature_row4:
 | Digital Protocol               | ETSI-TS102 361-1,-2,-3 |
 | Audio Response                 | #ERROR! |
 | Modulation BER(bit error rate) | le5% |
+
 | Приймач                        |
 | ------------------------------ |
 | Analog Sensibility             | 0.2microV 12dB SINAD |
