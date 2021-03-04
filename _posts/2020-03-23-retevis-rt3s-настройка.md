@@ -102,9 +102,13 @@ RT3S имеет два типа шифрования. Базовый "Basic" н�
 
 ### VFO mode
 RT3S имеет функцию режим VFO. Когда вы находитесь в режиме VFO, вы можете устанавливать частоту вашей рации с клавиатуры.
-                                                    <figure id="attachment_859" aria-describedby="caption-attachment-859" style="width: 981px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-859 size-full" title="VFO Retevis RT3S" src="https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S.jpg" alt="VFO Retevis RT3S" width="981" height="720" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S.jpg 981w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-300x220.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-768x564.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-600x440.jpg 600w" sizes="(max-width: 981px) 100vw, 981px" /><figcaption id="caption-attachment-859" class="wp-caption-text">_Настройка пункта &#8220;VFO mode&#8221; в CPS для Retevis RT3S_</figcaption></figure></li> 
-                                                    
-                                                      * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>GPS System</strong>: Для раций с GPS. Вы можете настроить 16 systems.</span></span> 
-                                                        <figure id="attachment_861" aria-describedby="caption-attachment-861" style="width: 442px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-861 size-full" title="GPS System" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-17.png" alt="GPS System" width="442" height="291" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-17.png 442w, https://retevis.com.ua/wp-content/uploads/2020/03/software-17-300x198.png 300w" sizes="(max-width: 442px) 100vw, 442px" /><figcaption id="caption-attachment-861" class="wp-caption-text">_Раздел &#8220;GPS System&#8221;_</figcaption></figure></li> </ol> 
-                                                        
+
+![VFO mode в CPS для Retevis RT3](/wp-content/uploads/2020/03/VFOMODE-RT3S.jpg)
+*Настройка пункта VFO mode в CPS для Retevis RT3S*
+                                                 
+###GPS System
+Для раций с GPS. Вы можете настроить 16 systems.
+
+![GPS System Retevis RT3S](/wp-content/uploads/2020/03/software-17.png)
+*Раздел "GPS System"*
                                                         Если у вас есть вопросы поводу программирования рации RT3S, пожалуйста, оставляйте ваши вопросы в комментариях.
