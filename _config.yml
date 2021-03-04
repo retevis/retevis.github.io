@@ -297,4 +297,4 @@ defaults:
       type: pages
     values:
       layout: product
-      author_profile: false
+      
