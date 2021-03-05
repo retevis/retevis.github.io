@@ -33,7 +33,7 @@ RT3S - это двухдиапазонная цифровая радиостан
 ### 2, Подключите RT3S и компьютеру 
 Воспользуйтесь кабелем для программирования RT3S. Затем включите радио.
 
-### 3, Откройте ПО
+### 3. Откройте ПО
  После загрузки файла контактов RT3S. Откройте программное обеспечение RT3S. Нажмите «Program», затем нажмите «Write Contacts»
 
 ![CPS RT3S Program - Write Contacts](assets/images/rt3s-write-contacts.jpg "CPS RT3S Program - Write Contacts")
