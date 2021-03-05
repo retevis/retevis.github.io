@@ -20,13 +20,13 @@ RT3S - это двухдиапазонная цифровая радиостан
 
 Мы можем зайти на сайт ailunce, чтобы загрузить список контактов RT3S csv: <https://www.ailunce.com/ResourceCenter>
 
-![Digital Contacts](assets/images/digital-contacts.jpg "Retevis RT3S - загрузить контакты")
+![Digital Contacts](/assets/images/digital-contacts.jpg "Retevis RT3S - загрузить контакты")
 
 Выберите RT3S. Вы можете переключать страны.  После того, как все настройки в порядке, мы можем написать правильный код verfy и нажать кнопку загрузки.
 
 Затем мы можем перейти на другую страницу, подождать несколько секунд, после того, как сервер обработает данные, вы можете нажать кнопку загрузки.
 
-![контакты для ретевис рт3с](assets/images/contacts-file.jpg "Retevis RT3S - скачать файл контактов")
+![контакты для ретевис рт3с](/assets/images/contacts-file.jpg "Retevis RT3S - скачать файл контактов")
 
 Примечание: RT3S поддерживает только 120 000 контактов, теперь общее количество онлайн-контактов составляет более 120 000. Если вы выберете все, после загрузки вам нужно будет удалить некоторые контакты, чтобы они были в пределах 120000. В противном случае вы не сможете успешно импортировать их в RT3S.
 
@@ -36,17 +36,17 @@ RT3S - это двухдиапазонная цифровая радиостан
 ### 3. Откройте ПО
  После загрузки файла контактов RT3S. Откройте программное обеспечение RT3S. Нажмите «Program», затем нажмите «Write Contacts»
 
-![CPS RT3S Program - Write Contacts](assets/images/rt3s-write-contacts.jpg "CPS RT3S Program - Write Contacts")
+![CPS RT3S Program - Write Contacts](/assets/images/rt3s-write-contacts.jpg "CPS RT3S Program - Write Contacts")
 
 ### 4. Нажмите «Import» 
 Выберите список контактов, который мы только что загрузили.
 
-![CPS RT3S Read/Write Contacts - Import](assets/images/rt3s-import-contacts.jpg "CPS RT3S Read/Write Contacts - Import")
+![CPS RT3S Read/Write Contacts - Import](/assets/images/rt3s-import-contacts.jpg "CPS RT3S Read/Write Contacts - Import")
 
 ### 5. Нажмите «Write»
 Запишите контакты в RT3S.
 
-![CPS RT3S Read/Write Contacts - Write](assets/images/cps-rt3s-write.jpg "CPS RT3S Read/Write Contacts - Write")
+![CPS RT3S Read/Write Contacts - Write](/assets/images/cps-rt3s-write.jpg "CPS RT3S Read/Write Contacts - Write")
 
 Когда запись контактов закончится, появится окно с подсказкой. Это означает, что вы успешно импортировали цифровые контакты в RT3S.
 
