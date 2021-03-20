@@ -20,17 +20,27 @@ categories:
 
 ### Другий метод (Privat Call)
 Ви можете створити приватний канал у програмному забезпеченні.
+
 ![RT3S privat call. Створити приватний канал](/wp-content/uploads/2020/03/Retevis-RT3S-Private-call-on-software-1.jpg)
+
 Перш за все вам потрібно вказати ваш&nbsp;**radio ID**&nbsp; та створити новий&nbsp;**new private call contact**.
+
 ![Retevis RT3s Privat Call](/wp-content/uploads/2020/03/Private-call-set-on-Retevis-RT3S-Cherry-169x300.jpg)
 ![RT3S privat call (приватний виклик)](/wp-content/uploads/2020/03/private-call-number-on-Retevis-RT3S-169x300.jpg)
+
 Потім встановіть інформацію про канал, частоту, виберіть приватний контакт, таймслот (time slot), color code, всю основну конфігурацію.
+
 ![Ретевис RT3S (приватный вызов)](/wp-content/uploads/2020/03/retevis-rt3s-private-call-channel-setting.jpg)
+
 Наступний крок, я думаю, найважливіший - додайте цей канал у зону, інакше ви не можете знайти цей канал у радіостанції.
+
 ![RT3S вибрати зону](/wp-content/uploads/2020/03/retevis-rt3s-zone-setting.jpg)
+
 Усі налаштування закінчені. Запишіть налаштування на радіо. Увімкніть цей канал і натисніть PTT. Тепер ви передасте сигнал на приватний ідентифікатор.
 
 ### Третій спосіб (Program Radio)
 Додайте новий цифровий канал на радіо. Для цього потрібно поставити галочку &#8220;Програмне радіо&#8221; (Program Radio) в програмному забезпеченні.
+
 ![RT3S увімкнути Program radio](/wp-content/uploads/2020/03/retevis-rt3s-program-radio-setting.jpg)
+
 Якщо у вас виникли питання &#8211; будь-яка пишіть їх у коментарях.
