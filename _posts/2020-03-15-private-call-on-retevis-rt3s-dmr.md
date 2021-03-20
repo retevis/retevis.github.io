@@ -11,15 +11,18 @@ categories:
 
 
 
-### Private Calls (приватні виклики)
+## Private Calls (приватні виклики)
 
 Приватний виклик (Private Call) &#8211; це дзвінок на певний ідентифікатор DMR (DMR ID). Комунікація є приватною. Повідомлення доступне для всіх, хто слухає потік DMR або зі станцією DMR з ідентичним програмованим ідентифікатором DMR. Під час використання станції Retevis RT3S у вас є 3 способи здійснення приватного дзвінка на RT3S.
 
-  1. Першим методом ви можете вручну набрати приватний ідентифікатор (private ID), вибравши в меню Контакт (**Contact)**, вибрати Ручний набір (**Manual Dial)**&nbsp;і переключитися між груповим (Group) або приватним ідентифікатором (Private ID)
+### Перший метод (Private ID)
+Першим методом ви можете вручну набрати приватний ідентифікатор (private ID), вибравши в меню Контакт (**Contact)**, вибрати Ручний набір (**Manual Dial)**&nbsp;і переключитися між груповим (Group) або приватним ідентифікатором (Private ID)
 
-<img loading="lazy" class="aligncenter wp-image-596 size-medium" src="https://retevis.com.ua/wp-content/uploads/2020/03/Private-call-on-RT3S-Cherry-169x300.jpg" alt="RT3S налаштування контактів" width="169" height="300" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/Private-call-on-RT3S-Cherry-169x300.jpg 169w, https://retevis.com.ua/wp-content/uploads/2020/03/Private-call-on-RT3S-Cherry.jpg 338w" sizes="(max-width: 169px) 100vw, 169px" /> 
+<img src="/wp-content/uploads/2020/03/Private-call-on-RT3S-Cherry-169x300.jpg" alt="RT3S налаштування контактів"/> 
+[/wp-content/uploads/2020/03/Private-call-on-RT3S-Cherry-169x300.jpg](RT3S налаштування контактів)
 
-2. Другий метод, Ви можете створити приватний канал у програмному забезпеченні.
+### Другий метод
+Ви можете створити приватний канал у програмному забезпеченні.
 
 <img loading="lazy" class="aligncenter wp-image-598 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/Retevis-RT3S-Private-call-on-software-1.jpg" alt="RT3S privat call. Створити приватний канал" width="695" height="241" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/Retevis-RT3S-Private-call-on-software-1.jpg 695w, https://retevis.com.ua/wp-content/uploads/2020/03/Retevis-RT3S-Private-call-on-software-1-300x104.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/Retevis-RT3S-Private-call-on-software-1-600x208.jpg 600w" sizes="(max-width: 695px) 100vw, 695px" /> 
 
