@@ -1,30 +1,26 @@
 ---
-id: 499
 title: 'Retevis RT3S: Програмування рації. Вступ'
 date: 2020-03-23T22:00:00+00:00
 author: Retevis Україна
-layout: post
-guid: http://54.93.109.229/?p=499
 permalink: '/retevis-rt3s-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d1%83%d0%b2%d0%b0%d0%bd%d0%bd%d1%8f-%d1%80%d0%b0%d1%86%d1%96%d1%97-%d0%b2%d1%81%d1%82%d1%83%d0%bf/'
-ap_mark:
-  - Это пост был добавлен через AftParser
-ap_link:
-  - https://blog.retevis.com/index.php/rt3s-software-introduction/
 image: /wp-content/uploads/2020/03/software-3-RT3S.png
 categories:
   - Цифрові рації
 tags:
   - RT3S
 ---
-Цифрова DMR-радіостанція [Retevis RT3S](https://retevis.com.ua/shop/retevis-rt3s/) має безліч функцій. Щоб отримати доступ до усіх налаштувань вам потрібно використовувати програмне забеспечення. Программа називається CPS. Також програмування рації не слід плутати з прошивкою. Як прошивати рацію RT3S я розповідаю у [іншій статті](https://retevis.com.ua/%d1%8f%d0%ba-%d0%be%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b8-%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d1%83-retevis-rt3s/).
+Цифрова DMR-радіостанція Retevis RT3S має безліч функцій. Щоб отримати доступ до усіх налаштувань вам потрібно використовувати програмне забеспечення. Программа називається CPS. Також програмування рації не слід плутати з прошивкою. Як прошивати рацію RT3S я розповідаю у [іншій статті](/%d1%8f%d0%ba-%d0%be%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b8-%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d1%83-retevis-rt3s/).
 
-Якщо ви не знаєте як програмувати радіостанцію, або ви новачок &#8211; ця стаття для вас.
+Якщо ви не знаєте як програмувати радіостанцію, або ви новачок - ця стаття для вас.
 
-Нижче приклад як запрограмувати рацію RT3S за допомогою комп&#8217;ютера.
+Нижче приклад як запрограмувати рацію RT3S за допомогою комп'ютера.
 
 ## Де завантажити програмне забезпечення?
 
-<span style="font-size: inherit;">Перейдіть на офіційний ресурсний центр за посиланням: <a href="http://www.retevis.com/resources-center">http://www.retevis.com/resources-center.</a>&nbsp;Знайдіть вашу модель RT3S та клікніть &#8220;завантажити&#8221;. Після завантаження та встановлення запустіть програму CPS для вашої моделі рації.</span>
+Перейдіть на офіційний ресурсний центр за посиланням: <http://www.retevis.com/resources-center>. Знайдіть вашу модель RT3S та клікніть "завантажити". Після завантаження та встановлення запустіть програму CPS для вашої моделі рації.</span>
+
+![RT3S: Як виглядає програма CPS](/wp-content/uploads/2020/03/software-1-RT3S.jpg)
+<figcaption>* RT3S: Як виглядає програма CPS *</figcaption>
 
 <figure id="attachment_833" aria-describedby="caption-attachment-833" style="width: 1418px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-833 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S.jpg" alt="RT3S программа" width="1418" height="534" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S.jpg 1418w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-300x113.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-1024x386.jpg 1024w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-768x289.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-600x226.jpg 600w" sizes="(max-width: 1418px) 100vw, 1418px" /><figcaption id="caption-attachment-833" class="wp-caption-text"> _RT3S: Як виглядає програма CPS_</figcaption></figure>
 
