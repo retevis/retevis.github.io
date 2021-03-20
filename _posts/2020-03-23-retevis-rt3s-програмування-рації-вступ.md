@@ -27,7 +27,7 @@ tags:
 ### Basic information
 У цьому розділі ви дізнаєтесь діапазон вашої радіостанції, версію вашого програмного забезпечення.
 
-### General Setting**
+### General Setting
 Цей пункт меню відповідає а такі налаштування як: Radio ID, Radio Name, Albert Tone, та інші функції та скріншоті нижче. 
 
 ![RT3S меню програми](/wp-content/uploads/2020/03/software-3-RT3S-1.png)
