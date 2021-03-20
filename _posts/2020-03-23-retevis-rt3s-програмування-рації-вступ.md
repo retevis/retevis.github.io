@@ -17,56 +17,98 @@ tags:
 
 ## Де завантажити програмне забезпечення?
 
-Перейдіть на офіційний ресурсний центр за посиланням: <http://www.retevis.com/resources-center>. Знайдіть вашу модель RT3S та клікніть "завантажити". Після завантаження та встановлення запустіть програму CPS для вашої моделі рації.</span>
+Перейдіть на офіційний ресурсний центр за посиланням: <http://www.retevis.com/resources-center>. Знайдіть вашу модель RT3S та клікніть "завантажити". Після завантаження та встановлення запустіть програму CPS для вашої моделі рації.
 
 ![RT3S: Як виглядає програма CPS](/wp-content/uploads/2020/03/software-1-RT3S.jpg)
-<figcaption>* RT3S: Як виглядає програма CPS *</figcaption>
+*RT3S: Як виглядає програма CPS*
 
-<figure id="attachment_833" aria-describedby="caption-attachment-833" style="width: 1418px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-833 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S.jpg" alt="RT3S программа" width="1418" height="534" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S.jpg 1418w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-300x113.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-1024x386.jpg 1024w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-768x289.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-1-RT3S-600x226.jpg 600w" sizes="(max-width: 1418px) 100vw, 1418px" /><figcaption id="caption-attachment-833" class="wp-caption-text"> _RT3S: Як виглядає програма CPS_</figcaption></figure>
+## Меню
 
-### **Меню**
+### Basic information
+У цьому розділі ви дізнаєтесь діапазон вашої радіостанції, версію вашого програмного забезпечення.
 
-  1. **Basic information:**&nbsp;У цьому розділі ви дізнаєтесь діапазон вашої радіостанції, версію вашого програмного забезпечення.
-  2. **General Setting**: Цей пункт меню відповідає а такі налаштування як: Radio ID, Radio Name, Albert Tone, та інші функції та скріншоті нижче. 
-    <figure id="attachment_835" aria-describedby="caption-attachment-835" style="width: 1073px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-835 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1.png" alt="RT3S меню програми" width="1073" height="736" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1.png 1073w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-300x206.png 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-1024x702.png 1024w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-768x527.png 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-3-RT3S-1-600x412.png 600w" sizes="(max-width: 1073px) 100vw, 1073px" /><figcaption id="caption-attachment-835" class="wp-caption-text">_Розділ &#8220;General settings&#8221; у програмному забезпеченні_</figcaption></figure></li> 
-    
-      * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Menu Item</strong>: &nbsp;Якщо ви оберете цей пункт, ви перейдете у розділ налаштування меню вашої рації.</span></span> 
-        <figure id="attachment_836" aria-describedby="caption-attachment-836" style="width: 596px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-836 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt.png" alt="RT3S програма" width="596" height="395" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt.png 596w, https://retevis.com.ua/wp-content/uploads/2020/03/software-4-rt-300x199.png 300w" sizes="(max-width: 596px) 100vw, 596px" /><figcaption id="caption-attachment-836" class="wp-caption-text">_Розділ &#8220;Menu item&#8221; програми_</figcaption></figure></li> 
+### General Setting**
+Цей пункт меню відповідає а такі налаштування як: Radio ID, Radio Name, Albert Tone, та інші функції та скріншоті нижче. 
+
+![RT3S меню програми](/wp-content/uploads/2020/03/software-3-RT3S-1.png)
+*Розділ "General settings" у програмному забезпеченні*
+
+### Menu Item
+Якщо ви оберете цей пункт, ви перейдете у розділ налаштування меню вашої рації.
+
+![RT3S програма](/wp-content/uploads/2020/03/software-4-rt.png)
+*Розділ "Menu item" програми*
         
-          * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Buttons Definitions</strong>: RT3S має 2 функціональні бокові кнопки поряд з тангентою (&#8220;PTT&#8221;). Ви маєте змогу визначити, за яку функцію відповідатиме кожна з кнопок.</span></span> 
-            <figure id="attachment_837" aria-describedby="caption-attachment-837" style="width: 863px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-837 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S.png" alt="RT3S Soft" width="863" height="672" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S.png 863w, https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S-300x234.png 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S-768x598.png 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-5-RT3S-600x467.png 600w" sizes="(max-width: 863px) 100vw, 863px" /><figcaption id="caption-attachment-837" class="wp-caption-text">_Пункт &#8220;Buttons Definitions&#8221; у програмному зеюезпеченні Retevis RT3S_</figcaption></figure></li> 
+### Buttons Definitions
+RT3S має 2 функціональні бокові кнопки поряд з тангентою ("PTT"). Ви маєте змогу визначити, за яку функцію відповідатиме кожна з кнопок.
+
+![RT3S Soft](/wp-content/uploads/2020/03/software-5-RT3S.png)
+*Пункт "Buttons Definitions" у програмному зеюезпеченні Retevis RT3S*
             
-              * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Text message</strong>: Ви можете налаштувати пресети текстових повідомлень. Вони будуть збережені як &#8220;Quick Text”.</span></span> 
-                <figure id="attachment_5288" aria-describedby="caption-attachment-5288" style="width: 542px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-5288 size-full" src="http://blog.retevis.com/wp-content/uploads/2018/06/software-16.png" alt="RT3S soft settings" width="542" height="371" /><figcaption id="caption-attachment-5288" class="wp-caption-text">_Розділ &#8220;Text message&#8221; в меню програми_</figcaption></figure></li> 
-                
-                  * <span style="font-size: inherit;"><strong>Privacy setting</strong>: RT3S має два типи шифрування. Базовий &#8220;Basic&#8221; на 4 bit та &#8220;Enhanced&#8221; на</span><span style="font-size: inherit;"><span style="font-size: inherit;">&nbsp;32 bit.</span></span> 
-                    <figure id="attachment_841" aria-describedby="caption-attachment-841" style="width: 749px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-841 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-15.jpg" alt="RT3S розділ шифрування" width="749" height="540" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-15.jpg 749w, https://retevis.com.ua/wp-content/uploads/2020/03/software-15-300x216.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-15-600x433.jpg 600w" sizes="(max-width: 749px) 100vw, 749px" /><figcaption id="caption-attachment-841" class="wp-caption-text">_Два типи шифрування у рації Retevis RT3S. Розділ &#8220;Privacy setting&#8221;_</figcaption></figure></li> 
-                    
-                      * **Digit Emergency System**: користувачі можуть налаштувати екстренний дзвінок на базову станцію або на інші радіостанції, а позивні рацій, які видають сигнал тривоги, відображаються на пристроях з дисплеєм. 
-                        <figure id="attachment_843" aria-describedby="caption-attachment-843" style="width: 928px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-843 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1.jpg" alt="RT3S Software" width="928" height="520" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1.jpg 928w, https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1-300x168.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1-768x430.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-14-1-600x336.jpg 600w" sizes="(max-width: 928px) 100vw, 928px" /><figcaption id="caption-attachment-843" class="wp-caption-text">_Налаштування функції екстренного виклику &#8220;Digit Emergency System&#8221; в меню програми_</figcaption></figure></li> 
-                        
-                          * <span style="font-size: inherit;"><strong>Digital Contact</strong>: Ви можете завантажити до 10,000 контактів у цьому розділі. Натисніть &#8220;Import&#8221;, щоб завантажити ваш csv-файл з контактами.</span> 
-                            <figure id="attachment_845" aria-describedby="caption-attachment-845" style="width: 619px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-845 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-12.jpg" alt="RT3S програмне забезпечення" width="619" height="454" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-12.jpg 619w, https://retevis.com.ua/wp-content/uploads/2020/03/software-12-300x220.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-12-600x440.jpg 600w" sizes="(max-width: 619px) 100vw, 619px" /><figcaption id="caption-attachment-845" class="wp-caption-text">_Розділ &#8220;Digital Contact&#8221; у меню програмування RT3S_</figcaption></figure></li> 
-                            
-                              * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Digital RX Group Call</strong>: Ви можете додати 250 списків груп (Group lists) тут. Зробіть ваші групові виклики простішими та швидшими!</span></span> 
-                                <figure id="attachment_848" aria-describedby="caption-attachment-848" style="width: 620px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-848 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-11.jpg" alt="Retevis RT3S CPS інтерфейс" width="620" height="468" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-11.jpg 620w, https://retevis.com.ua/wp-content/uploads/2020/03/software-11-300x226.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-11-600x453.jpg 600w" sizes="(max-width: 620px) 100vw, 620px" /><figcaption id="caption-attachment-848" class="wp-caption-text">_Налаштування групових викликів у розділі &#8220;Digital RX Group Call&#8221; CPS_</figcaption></figure></li> 
-                                
-                                  * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Zone information</strong>: У вас є можливість додати 250 зон каналів. Розподіліть канали за зонами. &nbsp;Зробіть пошук необхідного каналу легшим!</span></span> 
-                                    <figure id="attachment_850" aria-describedby="caption-attachment-850" style="width: 914px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-850 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-9.jpg" alt="RT3S запрограммировать" width="914" height="580" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-9.jpg 914w, https://retevis.com.ua/wp-content/uploads/2020/03/software-9-300x190.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-9-768x487.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-9-600x381.jpg 600w" sizes="(max-width: 914px) 100vw, 914px" /><figcaption id="caption-attachment-850" class="wp-caption-text">_Створення зон_</figcaption></figure></li> 
-                                    
-                                      * **Scan list**: Ви маєте змогу додати 250 списків сканування (scan lists) тут. Більше можливостей для ваших потреб сканування! 
-                                        <figure id="attachment_851" aria-describedby="caption-attachment-851" style="width: 755px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-851 size-full" title="Розділ &quot;Scan list&quot; в меню CPS" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-8.jpg" alt="Scan List RT3S" width="755" height="587" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-8.jpg 755w, https://retevis.com.ua/wp-content/uploads/2020/03/software-8-300x233.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-8-600x466.jpg 600w" sizes="(max-width: 755px) 100vw, 755px" /><figcaption id="caption-attachment-851" class="wp-caption-text">_Розділ &#8220;Scan list&#8221; в меню CPS_</figcaption></figure></li> 
-                                        
-                                          * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>Channel Information</strong>: Можливість додати 3000 каналів у цьому розділі. Ви можете налаштувати TX-частоту та RX-частоту, channel mode (analog/digital) та інше. Завантажуйте інформацію про ваші канали!</span></span> 
-                                            <figure id="attachment_852" aria-describedby="caption-attachment-852" style="width: 943px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-852 size-full" title="Налаштування каналів у розділі &quot;Channel Information&quot; RT3S" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-7.jpg" alt="Налаштування каналів Retevis RT3S" width="943" height="722" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-7.jpg 943w, https://retevis.com.ua/wp-content/uploads/2020/03/software-7-300x230.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-7-768x588.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/software-7-600x459.jpg 600w" sizes="(max-width: 943px) 100vw, 943px" /><figcaption id="caption-attachment-852" class="wp-caption-text">_Налаштування каналів у розділі &#8220;Channel Information&#8221;_</figcaption></figure></li> 
-                                            
-                                              * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>TMF Signaling</strong>: Має 4 системи, 32 Encodes та 8 Decodes.</span></span> 
-                                                <figure id="attachment_853" aria-describedby="caption-attachment-853" style="width: 618px" class="wp-caption aligncenter"><img loading="lazy" class="wp-image-853 size-full" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-6.jpg" alt="TMF Signaling" width="618" height="456" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-6.jpg 618w, https://retevis.com.ua/wp-content/uploads/2020/03/software-6-300x221.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/software-6-600x443.jpg 600w" sizes="(max-width: 618px) 100vw, 618px" /><figcaption id="caption-attachment-853" class="wp-caption-text">_Розділ &#8220;TMF Signaling&#8221; в меню_</figcaption></figure></li> 
+### Text message
+Ви можете налаштувати пресети текстових повідомлень. Вони будуть збережені як "Quick Text”.
+
+![RT3S Soft](/wp-content/uploads/2018/06/software-16.png)
+*Розділ "Text message" в меню програми*
+
+### Privacy setting
+RT3S має два типи шифрування. Базовий "Basic" на 4 bit та "Enhanced" на 32 bit.
+
+![RT3S розділ шифрування](/wp-content/uploads/2020/03/software-15.jpg)
+*Два типи шифрування у рації Retevis RT3S. Розділ "Privacy setting"*
+
+### Digit Emergency System
+Користувачі можуть налаштувати екстренний дзвінок на базову станцію або на інші радіостанції, а позивні рацій, які видають сигнал тривоги, відображаються на пристроях з дисплеєм.
+
+![RT3S Software](/wp-content/uploads/2020/03/software-14-1.jpg)
+*Налаштування функції екстренного виклику "Digit Emergency System" в меню програми*
+
+### Digital Contact
+Ви можете завантажити до 10,000 контактів у цьому розділі. Натисніть "Import", щоб завантажити ваш csv-файл з контактами.
+
+![RT3S програмне забезпечення](/wp-content/uploads/2020/03/software-12.jpg)
+*Розділ "Digital Contact" у меню програмування RT3S*
+
+### Digital RX Group Call
+Ви можете додати 250 списків груп (Group lists) тут. Зробіть ваші групові виклики простішими та швидшими!
+
+![Retevis RT3S CPS інтерфейс](/wp-content/uploads/2020/03/software-11.jpg)
+*Налаштування групових викликів у розділі "Digital RX Group Call" CPS*
+
+### Zone information
+У вас є можливість додати 250 зон каналів. Розподіліть канали за зонами. Зробіть пошук необхідного каналу легшим!
+
+![RT3S program](/wp-content/uploads/2020/03/software-9.jpg)
+*Створення зон*
+
+### Scan list
+Ви маєте змогу додати 250 списків сканування (Scan lists) тут. Більше можливостей для ваших потреб сканування! 
+
+![Розділ Scan list в меню CPS](/wp-content/uploads/2020/03/software-8.jpg)
+*Розділ "Scan list" в меню CPS*
+
+### Channel Information
+Можливість додати 3000 каналів у цьому розділі. Ви можете налаштувати TX-частоту та RX-частоту, channel mode (analog/digital) та інше. Завантажуйте інформацію про ваші канали!
+
+![Налаштування каналів Retevis RT3S](/wp-content/uploads/2020/03/software-7.jpg)
+*Налаштування каналів у розділі "Channel Information"*
+                                           
+### TMF Signaling
+Має 4 системи, 32 Encodes та 8 Decodes.
+
+![TMF Signaling](/wp-content/uploads/2020/03/software-6.jpg)
+*Розділ "TMF Signaling" в меню*
                                                 
-                                                  * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>VFO mode</strong>: RT3S має режим VFO. Ви можете встановлювати частоту вашої рації з клавіатури, коли ви знаходитесь в режимі VFO.</span></span> 
-                                                    <figure id="attachment_859" aria-describedby="caption-attachment-859" style="width: 981px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-859 size-full" title="VFO Retevis RT3S" src="https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S.jpg" alt="VFO Retevis RT3S" width="981" height="720" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S.jpg 981w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-300x220.jpg 300w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-768x564.jpg 768w, https://retevis.com.ua/wp-content/uploads/2020/03/VFOMODE-RT3S-600x440.jpg 600w" sizes="(max-width: 981px) 100vw, 981px" /><figcaption id="caption-attachment-859" class="wp-caption-text">_Налаштування пункту &#8220;VFO mode&#8221; в CPS для Retevis RT3S_</figcaption></figure></li> 
-                                                    
-                                                      * <span style="font-size: inherit;"><span style="font-size: inherit;"><strong>GPS System</strong>: Для рацій з GPS. Ви можете налаштувати 16 systems.</span></span> 
-                                                        <figure id="attachment_861" aria-describedby="caption-attachment-861" style="width: 442px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-861 size-full" title="GPS System" src="https://retevis.com.ua/wp-content/uploads/2020/03/software-17.png" alt="GPS System" width="442" height="291" srcset="https://retevis.com.ua/wp-content/uploads/2020/03/software-17.png 442w, https://retevis.com.ua/wp-content/uploads/2020/03/software-17-300x198.png 300w" sizes="(max-width: 442px) 100vw, 442px" /><figcaption id="caption-attachment-861" class="wp-caption-text">_Розділ &#8220;GPS System&#8221;_</figcaption></figure></li> </ol> 
-                                                        
-                                                        Якщо у вас залишились питання щодо програмування рації RT3S, будь ласка, залишайте ваші питання в коментарях.
+### VFO mode
+RT3S має режим VFO. Ви можете встановлювати частоту вашої рації з клавіатури, коли ви знаходитесь в режимі VFO.
+
+![VFO Retevis RT3S](/wp-content/uploads/2020/03/VFOMODE-RT3S.jpg)
+*Налаштування пункту "VFO mode" в CPS для Retevis RT3S*
+                                         
+### GPS System
+Для рацій з GPS. Ви можете налаштувати 16 systems.
+
+![VFO Retevis RT3S](/wp-content/uploads/2020/03/software-17.png)
+*Розділ "GPS System"*
+
+Якщо у вас залишились запитання щодо програмування рації RT3S, будь ласка, залишайте їх в коментарях.
