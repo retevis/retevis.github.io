@@ -1,15 +1,8 @@
 ---
-id: 505
 title: 'RT3S: Як здійснити приватний виклик DMR (private call)'
 date: 2020-03-15T14:54:08+00:00
 author: Retevis Україна
-layout: post
-guid: http://54.93.109.229/?p=505
 permalink: /private-call-on-retevis-rt3s-dmr/
-ap_mark:
-  - Это пост был добавлен через AftParser
-ap_link:
-  - https://blog.retevis.com/index.php/how-to-do-private-call-on-retevis-rt3s/
 image: /wp-content/uploads/2020/03/Знімок-екрана-2020-03-15-о-17.16.11.png
 categories:
   - Цифрові рації
