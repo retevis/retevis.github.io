@@ -21,3 +21,5 @@ fields:
   - type: file
     name: teaser
     label: teaser
+pages:
+- _posts/2020-06-01-public-zone.md

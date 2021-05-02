@@ -1,12 +1,15 @@
 ---
 title: 'Retevis RT90, RT82, RT3S: Что такое Public Zone?'
 categories:
-  - Blog
+- Blog
 tags:
-  - RT3S
-published: true
----
+- RT3S
+date: 2021-04-30 21:00:00 +0000
+teaser: ''
+header:
+  teaser: ''
 
+---
 Когда мы программируем Retevis RT90, RT82, RT3S, мы обнаруживаем, что есть настройка Public Zone.
 
 Давайте разберемся что это.
