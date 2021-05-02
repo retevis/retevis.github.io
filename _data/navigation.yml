@@ -1,8 +1,8 @@
 main:
   - title: "Корисні статті"
     url: /categories/
-  - title: "Магазин"
-    url: https://facebook.com/retevisua/
+  #- title: "Магазин"
+  #  url: https://facebook.com/retevisua/
   #- title: "Categories"
   #  url: /categories/
   #- title: "Tags"
