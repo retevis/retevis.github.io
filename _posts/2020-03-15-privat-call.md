@@ -1,5 +1,5 @@
 ---
-title: 'Как настроить '
+title: 'Как настроить Private Calls (приватный вызов) в RT3S'
 date: 2020-03-15T14:54:08+00:00
 author: Retevis Україна
 permalink: /ru/rt3s-privat-call/
