@@ -1,5 +1,5 @@
 ---
-title: 'RT3S: Как настроить Private Call DMR'
+title: 'RT3S: Как настроить Private Call DMR '
 date: 2021-03-05T14:54:08+00:00
 guid: https://retevis.com.ua/?p=609
 permalink: /ru/rt3s-privat-call/
