@@ -1,7 +1,7 @@
 ---
 title: TEst
 date: 2021-04-27 21:00:00 +0000
-permalink: test
+permalink: text
 teaser: ''
 header:
   teaser: ''
