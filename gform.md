@@ -4,9 +4,6 @@
       target="_self"
       id="bootstrapForm"
       method="POST">
-    <fieldset>
-        <h2>Форма без назви<br><small></small></h2>
-    </fieldset>
 
 
     <!-- Field type: "short" id: "1545541244" -->
@@ -90,7 +87,6 @@
     <input type="hidden" name="pageHistory" value="0">
 
     <input class="btn btn-primary" type="submit" value="Submit">
-</form>
 </form>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
