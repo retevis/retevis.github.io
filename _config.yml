@@ -97,7 +97,7 @@ author:
   name             : "Retevis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Авторизований дистриб'ютор Retevis в Україні"
-  location         : "Україна"
+  location         : # "Україна"
   email            :
   links:
     - label: "Email"
