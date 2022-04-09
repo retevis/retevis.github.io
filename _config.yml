@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Retevis"
+  name             : # "Retevis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Авторизований дистриб'ютор Retevis в Україні"
+  bio              : # "Авторизований дистриб'ютор Retevis в Україні"
   location         : # "Україна"
-  email            :
+  email            : #
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
